@@ -1,0 +1,183 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #fff;
+}
+
+.menu{
+    display: flex;
+    height: 100px;
+
+}
+
+.social2{
+    height: 80px;
+    /* border: solid blue;  */
+
+}
+
+.social{
+    flex: 1;
+}
+
+.social1{
+    flex: 1;
+}
+
+
+
+.social2 {
+    /* height: 15px; */
+    /* border: solid; */
+    text-decoration: none;
+    color: #0f0f0f;
+    float: right;
+    margin-left: 10px;
+    padding: 9px;
+    /* padding-left: 15px; */
+   
+}
+
+.social2 img{
+    height: 20px;
+    float: right;
+    padding: 9px;
+    cursor: pointer;
+    
+}
+
+
+.google{
+    text-align: center;
+    margin-top: 85px;
+    /* border: solid yellowgreen; */
+    
+}
+
+.search{
+    text-align: center;
+}
+
+input{
+    width: 490px;
+    height: 35px;
+    margin-top: 40px;
+    border-radius: 20px;
+    outline: none;
+    color: rgba(87, 72, 72, 0.192);
+
+}
+
+.wo{
+    text-align: center;
+    margin-top: 27px;
+    align-items: center;
+}
+   
+
+button{
+    /* margin: 5px;
+    width: 140px;
+    height: 35px;
+    font-size: medium;
+    cursor: pointer;
+    background-color: #f2f2f2; */
+    background-image: -webkit-linear-gradient(top,#f5f5f5,#f1f1f1);
+    background-color: #f2f2f2;
+    border: 1px solid #f2f2f2;
+    border-radius: 4px;
+    color: #5F6368;
+    font-family: arial,sans-serif;
+    font-size: 14px;
+    margin: 11px 4px;
+    padding: 0 16px;
+    line-height: 27px;
+    height: 36px;
+    min-width: 54px;
+    text-align: center;
+    cursor: pointer;
+    user-select: none;
+}
+
+.ede{
+    text-align: center;
+    margin-top: 35px;
+    font-size: medium;
+}
+
+.ede a{
+    text-decoration: none;
+    text-decoration-color: rgb(26, 13, 171);
+    text-decoration-style: solid;
+    font-family: arial,sans-serif;
+    font-size: 13px;
+}
+
+.ife{
+    background-color: #f2f2f2;
+    height: 100px;
+    margin-top: 114px;
+    font-size: 19px;
+    color: #5f6368;
+
+}
+
+.iwo p{
+    text-align: left;
+    margin-left: 45px;
+    font-family: arial,sans-serif;
+    color: #5f6368;
+    font-size: 16px;
+    /* margin: 30px; */
+
+}
+
+.iwo2 ul li {
+    display: inline-block;
+    font-family: arial,sans-serif;
+    visibility: visible;
+    font-size: 15px;
+    padding-left: 15px;
+    line-height: 40px;
+    white-space: nowrap;
+
+}
+
+.tow a{
+    text-decoration: none;
+    color: #5f6368;
+    text-decoration-style: solid;
+}
+
+.pull a{
+    text-decoration: none;
+    color: #5f6368;
+    text-decoration-style: solid;
+    
+}
+
+.iwo2 .pull{
+    float: right;
+}
+
+.iwo2 .tow{
+    margin-top: 50px;
+    margin-left: 30px;
+}
+
+.iwo2 .pull{
+    margin-top: 50px;
+    margin-right: 30px;
+}
+
+.iwo2 a:hover{
+    text-decoration: underline;
+}
+
+
+
+
+
+
