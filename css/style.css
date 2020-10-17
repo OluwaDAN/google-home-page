@@ -26,8 +26,6 @@ body{
     flex: 1;
 }
 
-
-
 .social2 {
     /* height: 15px; */
     /* border: solid; */
@@ -115,10 +113,12 @@ button{
     font-size: 13px;
 }
 
+.footer
+
 .ife{
     background-color: #f2f2f2;
-    height: 100px;
-    margin-top: 114px;
+    height: 120px;
+    margin-top: 160px;
     font-size: 19px;
     color: #5f6368;
 
@@ -126,7 +126,8 @@ button{
 
 .iwo p{
     text-align: left;
-    margin-left: 45px;
+    padding-top: 20px;
+    padding-left: 45px;
     font-family: arial,sans-serif;
     color: #5f6368;
     font-size: 16px;
